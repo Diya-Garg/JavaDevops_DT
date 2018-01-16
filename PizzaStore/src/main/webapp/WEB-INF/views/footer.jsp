@@ -1,20 +1,11 @@
 <nav class="navbar navbar-inverse navbar-custom_1">
 
-	<div class="navbar-header">
-      	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar3">
-        	<span class="icon-bar"></span>
-        	<span class="icon-bar"></span>
-        	<span class="icon-bar"></span>                        
-      	</button>
-      	<a class="navbar-brand" href="#" style="color:white!important;font-size:12px">Online Pizza Store	</a>
-     </div>
-    <div class="collapse navbar-collapse container-fluid" id="myNavbar3">
-    
+	
    <ul class="nav navbar-nav">
         <li><a href="#" class="footeroptions"> About Us</a></li>
         <li><a href="#" class="footeroptions"><i class="fa fa-phone"></i> Contact</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" class="footeroptions"  class="footeroptions">
+          <a href="#" class="dropdown-toggle footeroptions" data-toggle="dropdown" class="footeroptions">
           Support <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
             <li><a href="#"><i class="fa fa-envelope" class="footeroptions"></i> Email</a></li>
@@ -28,7 +19,7 @@
   			<div class="input-group">
     				<input type="text" class="form-control" placeholder="Search">
     				<div class="input-group-btn">
-      				<button class="btn btn-default" type="submit">Search</button>
+      				<button class="btn btn-primary" type="submit">Search</button>
     			</div>
   			</div>
 		</form>   
@@ -42,3 +33,6 @@
        	 </ul>
        	 </div>
   </nav>
+  </body>
+</html>
+  
