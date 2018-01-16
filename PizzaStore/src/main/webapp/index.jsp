@@ -12,7 +12,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width",initial-scale=1">
-<title>Pizza Store</title>
+<title>PizzaStore.com</title>
 </head>
 <body>
 	<jsp:include page="header1.jsp"/>
