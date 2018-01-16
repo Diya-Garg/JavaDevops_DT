@@ -10,28 +10,28 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner">	
 				<div class="item active">
-					<img src="images\\image1.jpg" class="slider">
+					<img src="${pageContext.request.contextPath}/resources/images/image1.jpg" class="slider">
 					 <div class="carousel-caption carousel-text">
           				<h3>Order Now</h3>
           				<p>Call Us : 180087970</p>
         			</div>
 				</div>
 				<div class="item">
-					<img src="images\\image2.jpg" class="slider">
+					<img src="${pageContext.request.contextPath}/resources/images/image2.jpg" class="slider">
 					<div class="carousel-caption carousel-text">
           				<h3>Order Now</h3>
           				<p>Call Us : 180087970</p>
         			</div>
 				</div>
 				<div class="item">
-					<img src="images\\image3.jpg" class="slider">
+					<img src="${pageContext.request.contextPath}/resources/images/image3.jpg" class="slider">
 					<div class="carousel-caption carousel-text">
           				<h3>Order Now</h3>
           				<p>Call Us : 180087970</p>
         			</div>
 				</div>
 					<div class="item">
-					<img src="images\\image4.jpg" class="slider">
+					<img src="${pageContext.request.contextPath}/resources/images/image4.jpg" class="slider">
 					<div class="carousel-caption carousel-text">
           				<h3>Order Now</h3>
           				<p>Call Us : 180087970</p>

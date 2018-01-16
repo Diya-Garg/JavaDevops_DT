@@ -14,7 +14,7 @@
      	<ul class="nav navbar-nav">
 			<li class="active">
 				<a href="#">	
-					<img class="img-responsive" style="max-width:100px;" src="images\\logo.jpg" alt="Home">
+					<img class="img-responsive" style="max-width:100px;" src="${pageContext.request.contextPath}/resources/images/logo.jpg" alt="Home">
 				</a>
 			</li>
 			
@@ -22,7 +22,7 @@
 		<ul class="nav navbar-nav navbar-right navright-margin">
 			<li><a href="#" class="nav2options">Home</a></li>
 			<li><a href="#" class="nav2options">Menu</a></li>
-			<li><a href="#" class="nav2options">Locate Us</a></li>
+			<li><a href="locate" class="nav2options">Locate Us</a></li>
 			<li><a href="#" class="nav2options">Feedback</a></li>
 			<li><a href="#" class="nav2options">Order Online</a></li>
 			
